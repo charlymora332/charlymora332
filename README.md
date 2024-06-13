@@ -2,7 +2,7 @@
 
 <!--
 **charlymora332/charlymora332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h1 class="center">Hola, soy <a>Carlos Mora</a><h/1>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 class="center">Hola, soy <a>Carlos Mora</a><h/1>
