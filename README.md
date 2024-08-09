@@ -26,12 +26,12 @@ Soy técnico en Sistemas y estudiante de Tecnología en Análisis y Desarrollo d
 
 - **[Snap](https://charlymora332.github.io/snap/)** 📄: Plataforma en inglés inspirada en Frontend Mentors, es una landing page.
 
-- **[NBA Top 15 Players](enlace-al-repositorio)** 🏀: Una aplicación web que muestra los 15 jugadores top de la NBA en 2024, utilizando React y Tailwind CSS.
+- **[NBA Top 15 Players](https://charlymora332.github.io/top-15-jugadores-nba/)** 🏀: Una aplicación web que muestra los 15 jugadores top de la NBA en 2024, utilizando React y Tailwind CSS.
 
 ## Contacto 📫
 
-- **LinkedIn**: [linkedin.com/in/carlos-mora](enlace-a-tu-perfil-linkedin) 🔗
-- **Correo Electrónico**: [carlos.mora@example.com](mailto:carlos.mora@example.com) 📧
+- **LinkedIn**: [https://www.linkedin.com/in/carlos-mora-a5b1b9269/](https://www.linkedin.com/in/carlos-mora-a5b1b9269/) 🔗
+- **Correo Electrónico**: [charlymora332@gmail.com](charlymora332@gmail.com) 📧
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres conectarte, no dudes en contactarme. 😄
 
