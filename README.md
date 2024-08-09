@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hola, soy Carlos Mora 👋
 
 Soy técnico en Sistemas y estudiante de Tecnología en Análisis y Desarrollo de Software, con una pasión por el desarrollo web. Actualmente, desarrollo aplicaciones front-end utilizando React. Mi objetivo es contribuir al desarrollo de software, enfocándome en el front-end y, en el futuro, convertirme en un desarrollador full stack.
