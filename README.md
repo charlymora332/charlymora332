@@ -1,4 +1,39 @@
 ## Hi there 👋
+# Hola, soy Carlos Mora 👋
+
+Soy técnico en Sistemas y estudiante de Tecnología en Análisis y Desarrollo de Software, con una pasión por el desarrollo web. Actualmente, desarrollo aplicaciones front-end utilizando React. Mi objetivo es contribuir al desarrollo de software, enfocándome en el front-end y, en el futuro, convertirme en un desarrollador full stack.
+
+## Habilidades 🚀
+
+### Lenguajes y Tecnologías 💻
+- **JavaScript** 🟨
+- **HTML** 🔤
+- **CSS** 🎨
+- **React** ⚛️
+- **Tailwind CSS** 🌪️
+- **Bootstrap** 🧩
+- **PHP** 🟩
+- **SQL** 🗃️
+
+### Herramientas 🛠️
+- **Git** 🌳
+- **GitHub** 🐙
+- **Figma** 🎨
+
+## Proyectos Destacados 🌟
+
+- **[Conecta_Conmigo](https://charlymora332.github.io/Conecta_Conmigo/)** 🌐: Una web diseñada para facilitar la interacción y promover mi trabajo como desarrollador front-end. Integra múltiples perfiles en redes sociales y proporciona contacto directo mediante correo electrónico.
+
+- **[Snap](https://charlymora332.github.io/snap/)** 📄: Plataforma en inglés inspirada en Frontend Mentors, es una landing page.
+
+- **[NBA Top 15 Players](enlace-al-repositorio)** 🏀: Una aplicación web que muestra los 15 jugadores top de la NBA en 2024, utilizando React y Tailwind CSS.
+
+## Contacto 📫
+
+- **LinkedIn**: [linkedin.com/in/carlos-mora](enlace-a-tu-perfil-linkedin) 🔗
+- **Correo Electrónico**: [carlos.mora@example.com](mailto:carlos.mora@example.com) 📧
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres conectarte, no dudes en contactarme. 😄
 
 <!--
 **charlymora332/charlymora332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
