@@ -31,7 +31,7 @@ Soy técnico en Sistemas y estudiante de Tecnología en Análisis y Desarrollo d
 ## Contacto 📫
 
 - **LinkedIn**: [https://www.linkedin.com/in/carlos-mora-a5b1b9269/](https://www.linkedin.com/in/carlos-mora-a5b1b9269/) 🔗
-- **Correo Electrónico**: [charlymora332@gmail.com](charlymora332@gmail.com) 📧
+- **Correo Electrónico**: [charlymora332@gmail.com](mailto:charlymora332@gmail.com) 📧
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres conectarte, no dudes en contactarme. 😄
 
