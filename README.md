@@ -25,6 +25,8 @@ Soy un **desarrollador Full Stack** con más de **2 años de formación y experi
 
 ## 🛠 Tecnologías y Herramientas
 
+![legug](https://github-readme-stats.vercel.app/api/top-langs/?username=charlymora332&theme=tokyonight&layout=compact)
+
 ### Frontend
 <div align="left">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
