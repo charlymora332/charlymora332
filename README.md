@@ -18,7 +18,6 @@ Soy un **desarrollador Full Stack** especializado en **React y .NET**, con pasi�
 - 🌐 **Intereses:** Optimización de UX, escalabilidad de sistemas y soluciones innovadoras.  
 - 📫 **Portafolio:** [carlos.morah.online](https://carlos.morah.online)
 
----
 
 ## 🛠 Tecnologías y Herramientas
 
