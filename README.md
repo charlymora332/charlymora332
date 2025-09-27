@@ -1,4 +1,36 @@
 
+<p align="center" style="font-size:5em; font-weight:bold;">
+  Hola, soy Carlos Eduardo Mora Herrera
+</p> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center" style="border:none; margin-bottom:0;">
+  <span style="border:none;">Hola, soy Carlos Eduardo Mora Herrera</span>
+</h1>
+
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Full+Stack+|+React+&+.NET;Desarrollador+Front+&+Back-End;Creador+de+soluciones+web+innovadoras;Apasionado+por+UX+y+experiencia+de+usuario">
+  </a>
+</p>
+
+<img align="right" width="300px" alt="Developer Gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25qY3RkeHZ5ZTl5c2RkZWZjbXlzYjZsMHpwaWhpd3huM2hyaHJ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" />
+
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<h2>Sobre mí</h2>
+
+Soy un **desarrollador Full Stack** con experiencia en **React y .NET**, apasionado por crear soluciones web innovadoras, funcionales y escalables. Trabajo día a día construyendo aplicaciones frontend y backend que mejoran la experiencia del usuario y resuelven problemas reales.  
+
+- 💻 **Especialidades:** Desarrollo frontend con React, interfaces modernas y responsivas; integración con backend .NET y APIs RESTful  
+- 🌐 **Intereses:** Crear soluciones innovadoras, optimización de UX y escalabilidad de sistemas  
+- 📫 **Portafolio:** [carlos.morah.online](https://carlos.morah.online)
+
+
+
+
+
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -8,6 +40,25 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Full+Stack+|+React+&+.NET;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+
+
+
+
+
+<img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25qY3RkeHZ5ZTl5c2RkZWZjbXlzYjZsMHpwaWhpd3huM2hyaHJ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre Mi***
+
+Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, con experiencia en **frontend y backend**, creando soluciones funcionales, escalables y centradas en la experiencia del usuario.
+* **yo estoy interesado en el desarrolo frontend creando solicones inovadoras **
+- 🌱 I’m currently learning ...
+  - .net
+  - React js
+
+
+
+- 📫 visita mi portafolio: <a href="carlos.morah.online">portafolio</a>
+
 
 
 
