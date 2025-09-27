@@ -1,52 +1,91 @@
 
-# Hola, soy Carlos Mora 👋
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Soy técnico en Sistemas y estudiante de Tecnología en Análisis y Desarrollo de Software, con una pasión por el desarrollo web. Actualmente, desarrollo aplicaciones front-end utilizando React. Mi objetivo es contribuir al desarrollo de software, enfocándome en el front-end y, en el futuro, convertirme en un desarrollador full stack.
 
-## Habilidades 🚀
+<h1 align="center"><b > Hola, soy Carlos Eduardo Mora Herrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### Lenguajes y Tecnologías 💻
-- **JavaScript** 🟨
-- **HTML** 🔤
-- **CSS** 🎨
-- **React** ⚛️
-- **Tailwind CSS** 🌪️
-- **Bootstrap** 🧩
-- **PHP** 🟩
-- **SQL** 🗃️
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Full+Stack+|+React+&+.NET;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
-### Herramientas 🛠️
-- **Git** 🌳
-- **GitHub** 🐙
-- **Figma** 🎨
 
-## Proyectos Destacados 🌟
 
-- **[Conecta_Conmigo](https://charlymora332.github.io/Conecta_Conmigo/)** 🌐: Una web diseñada para facilitar la interacción y promover mi trabajo como desarrollador front-end. Integra múltiples perfiles en redes sociales y proporciona contacto directo mediante correo electrónico.
 
-- **[Snap](https://charlymora332.github.io/snap/)** 📄: Plataforma en inglés inspirada en Frontend Mentors, es una landing page.
+# 👋 Hola, soy Carlos Eduardo Mora Herrera
 
-- **[NBA Top 15 Players](https://charlymora332.github.io/top-15-jugadores-nba/)** 🏀: Una aplicación web que muestra los 15 jugadores top de la NBA en 2024, utilizando React y Tailwind CSS.
+### Desarrollador Full Stack | React & .NET
 
-## Contacto 📫
+Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, con experiencia en **frontend y backend**, creando soluciones funcionales, escalables y centradas en la experiencia del usuario.
 
-- **LinkedIn**: [https://www.linkedin.com/in/carlos-mora-a5b1b9269/](https://www.linkedin.com/in/carlos-mora-a5b1b9269/) 🔗
-- **Correo Electrónico**: [charlymora332@gmail.com](mailto:charlymora332@gmail.com) 📧
+---
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres conectarte, no dudes en contactarme. 😄
+## 🛠 Tecnologías y Herramientas
 
-<!--
-**charlymora332/charlymora332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 class="center">Hola, soy <a>Carlos Mora</a><h/1>
-Here are some ideas to get you started:
+### Frontend
+- React | JavaScript | CSS
+- Tailwind CSS | Bootstrap | Figma
+- Angular (básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- .NET | APIs RESTful | Entity Framework Core
+- SQL Server
 
+### Herramientas
+- Git | GitHub | Azure
+- Postman | VS Code
+
+---
+
+## 📚 Educación
+
+- **Ingeniería en Sistemas** – Corporación Unificada Nacional de Educación Superior (CUN) | 6.º semestre (2023 – Actualidad)  
+- **Tecnología en Análisis y Desarrollo de Software** – SENA | 2023 – 2025  
+- **Desarrollo Web Frontend** – Egg Academy | 2023  
+- **Intermedia Full Stack** – Talento Tech | 2024  
+- **Inglés A2** – Escuela de Idiomas | 2019
+
+---
+
+## 💻 Proyectos Destacados
+
+### Web de Adopción de Mascotas
+**Stack:** React, .NET, EF Core, APIs RESTful  
+- Desarrollo full stack aplicando arquitectura limpia.  
+- Integración de frontend y backend con enfoque en UX.  
+- CRUD de mascotas y usuarios.  
+- [Ver proyecto](#) *(agrega link a tu portafolio o repositorio)*
+
+### E-commerce TribalMotos
+**Stack:** React, Tailwind, APIs RESTful  
+- Desarrollo frontend y consumo de APIs para gestión de productos y usuarios.  
+- Interfaz responsiva y moderna, enfocada en experiencia de usuario.  
+- [Ver proyecto](#)
+
+---
+
+## 🏢 Experiencia
+
+**AxaColpatria – Desarrollador .NET / Full Stack**  
+- Desarrollo y mantenimiento de aplicaciones .NET integrando APIs RESTful y bases de datos SQL.  
+- Optimización de rendimiento de sistemas y soporte técnico a usuarios.
+
+---
+
+## 🌐 Contacto
+
+- 📧 charlymora332@gmail.com  
+- 📱 3114443305  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-mora/)  
+- 🔗 [Portafolio](#)  
+- 🔗 [GitHub](https://github.com/charlymora332)
+
+---
+
+## 🌟 Sobre mí
+
+Soy un desarrollador Full Stack con enfoque en **React y .NET**, apasionado por construir aplicaciones que solucionen problemas reales. Me encanta aprender nuevas tecnologías, trabajar en proyectos desafiantes y mejorar la experiencia del usuario.  
+
+---
+
+**¡Gracias por visitar mi GitHub! 🚀**
