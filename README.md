@@ -1,24 +1,26 @@
 
-<p align="center" style="font-size:5em; font-weight:bold;">
-  Hola, soy Carlos Eduardo Mora Herrera
-</p> 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center" style="border:none; margin-bottom:0;">
-  <span style="border:none;">Hola, soy Carlos Eduardo Mora Herrera</span>
+<h1 align="center">
+Hola, soy Carlos Eduardo Mora Herrera
 </h1>
 
 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Full+Stack+|+React+&+.NET;Desarrollador+Front+&+Back-End;Creador+de+soluciones+web+innovadoras;Apasionado+por+UX+y+experiencia+de+usuario">
+<!--    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Full+Stack+|+React+&+.NET;Desarrollador+Front+&+Back-End;Creador+de+soluciones+web+innovadoras;Apasionado+por+UX+y+experiencia+de+usuario">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=28&center=true&vCenter=true&width=700&height=120&lines=Desarrollador+Full+Stack+|+React+%26+.NET;Frontend+&+Backend;Creador+de+soluciones+web+innovadoras;Apasionado+por+UX+y+experiencia+de+usuario">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&center=true&vCenter=true&width=700&height=120&pause=1000&color=00FFFF&lines=Desarrollador+Full+Stack+%7C+React+%26+.NET;React;.NET"> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=140&color=00FFFF&lines=Desarrollador+Full+Stack+%7C+React+%26+.NET;React+%E2%80%93+Experto+en+frontend+moderno;.NET+%E2%80%93+Backend+robusto+y+APIs+RESTful;Apasionado+por+UX+y+soluciones+innovadoras">
+
   </a>
 </p>
 
 <img align="right" width="300px" alt="Developer Gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25qY3RkeHZ5ZTl5c2RkZWZjbXlzYjZsMHpwaWhpd3huM2hyaHJ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" />
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<h2>Sobre mí</h2>
+ ### Sobre mí
 
 Soy un **desarrollador Full Stack** con experiencia en **React y .NET**, apasionado por crear soluciones web innovadoras, funcionales y escalables. Trabajo día a día construyendo aplicaciones frontend y backend que mejoran la experiencia del usuario y resuelven problemas reales.  
 
@@ -35,41 +37,6 @@ Soy un **desarrollador Full Stack** con experiencia en **React y .NET**, apasion
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h1 align="center"><b > Hola, soy Carlos Eduardo Mora Herrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Full+Stack+|+React+&+.NET;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
-
-
-
-
-<img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25qY3RkeHZ5ZTl5c2RkZWZjbXlzYjZsMHpwaWhpd3huM2hyaHJ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" />
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre Mi***
-
-Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, con experiencia en **frontend y backend**, creando soluciones funcionales, escalables y centradas en la experiencia del usuario.
-* **yo estoy interesado en el desarrolo frontend creando solicones inovadoras **
-- 🌱 I’m currently learning ...
-  - .net
-  - React js
-
-
-
-- 📫 visita mi portafolio: <a href="carlos.morah.online">portafolio</a>
-
-
-
-
-
-# 👋 Hola, soy Carlos Eduardo Mora Herrera
-
-### Desarrollador Full Stack | React & .NET
-
-Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, con experiencia en **frontend y backend**, creando soluciones funcionales, escalables y centradas en la experiencia del usuario.
-
----
 
 ## 🛠 Tecnologías y Herramientas
 
@@ -88,13 +55,68 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, con e
 
 ---
 
-## 📚 Educación
+# 💻 Tecnologías y Herramientas de Carlos Mora
 
-- **Ingeniería en Sistemas** – Corporación Unificada Nacional de Educación Superior (CUN) | 6.º semestre (2023 – Actualidad)  
-- **Tecnología en Análisis y Desarrollo de Software** – SENA | 2023 – 2025  
-- **Desarrollo Web Frontend** – Egg Academy | 2023  
-- **Intermedia Full Stack** – Talento Tech | 2024  
-- **Inglés A2** – Escuela de Idiomas | 2019
+Este repositorio muestra las tecnologías, frameworks y herramientas que manejo actualmente en desarrollo web, bases de datos, backend y herramientas de soporte.
+
+---
+
+## ⚡ Frontend
+<div align="left">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
+
+---
+
+## 🖥️ Backend
+<div align="left">
+  <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-%234F46E5.svg?style=for-the-badge&logo=dot-net&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-%2373228F.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-RESTful-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
+
+---
+
+## 🗄️ Bases de Datos
+<div align="left">
+  <img src="https://img.shields.io/badge/SQL-005CBA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL_Server-%2373228F.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</div>
+
+---
+
+## 🛠️ Herramientas y Otros
+<div align="left">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+---
+
+## 🧰 Experiencia Técnica
+- Desarrollo front-end con React, Angular y TailwindCSS.
+- Desarrollo back-end con .NET Core, Entity Framework y APIs RESTful.
+- Manejo de bases de datos SQL Server y SQL.
+- Uso de herramientas de testing y desarrollo: Postman, Git, GitHub.
+- Implementación en la nube: Microsoft Azure.
+- Administración y optimización de equipos con Linux y Windows.
+
+
+
+
 
 ---
 
@@ -115,28 +137,34 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, con e
 
 ---
 
-## 🏢 Experiencia
 
-**AxaColpatria – Desarrollador .NET / Full Stack**  
-- Desarrollo y mantenimiento de aplicaciones .NET integrando APIs RESTful y bases de datos SQL.  
-- Optimización de rendimiento de sistemas y soporte técnico a usuarios.
 
----
+
+
 
 ## 🌐 Contacto
 
-- 📧 charlymora332@gmail.com  
-- 📱 3114443305  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-mora/)  
-- 🔗 [Portafolio](#)  
-- 🔗 [GitHub](https://github.com/charlymora332)
+<div align="left">
+  <a href="mailto:charlymora332@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+573114443305">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-mora/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portafolio-FF6F61?style=for-the-badge&logo=appveyor&logoColor=white" />
+  </a>
+  <a href="https://github.com/charlymora332">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
----
 
-## 🌟 Sobre mí
 
-Soy un desarrollador Full Stack con enfoque en **React y .NET**, apasionado por construir aplicaciones que solucionen problemas reales. Me encanta aprender nuevas tecnologías, trabajar en proyectos desafiantes y mejorar la experiencia del usuario.  
 
----
+
 
 **¡Gracias por visitar mi GitHub! 🚀**
