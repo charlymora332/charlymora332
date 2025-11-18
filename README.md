@@ -86,7 +86,7 @@ Soy un **desarrollador Full Stack** con más de **2 años de formación y experi
   <a href="tel:+573114443305">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/carlos-eduardo-mora/">
+  <a href="https://www.linkedin.com/in/carlosmorah">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://Carlosmorah.online">
