@@ -25,9 +25,7 @@ Soy un **desarrollador Full Stack** con más de **2 años de formación y experi
 
 ## 🛠 Tecnologías y Herramientas
 
-![legug](https://github-readme-stats.vercel.app/api/top-langs/?username=charlymora332&theme=tokyonight&layout=compact&card_width=800)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![legug](https://github-readme-stats.vercel.app/api/top-langs/?username=charlymora332&theme=tokyonight&layout=compact&card)
 
 
 ### Frontend
